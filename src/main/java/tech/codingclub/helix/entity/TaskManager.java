@@ -7,9 +7,6 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Coding Club India.
- */
 public class TaskManager {
 
     private int threadCount;
